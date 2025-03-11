@@ -17,7 +17,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:matheusrichardrodriguest@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Matheus080622/)
-[![Portfólio](https://img.shields.io/badge/-portifolio-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://matheus080622.github.io/PortifolioM/)
+[![Portfólio](https://img.shields.io/badge/-portifolio-000?)](https://matheus080622.github.io/PortifolioM/)
 
 
 <h3 align="left">My Stack ~</h3>

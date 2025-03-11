@@ -6,7 +6,7 @@
 
 #
  
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas.Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p> 
+<p align="center">Exploring the world of technology as a Systems Analysis and Development student. I believe in the power of continuous learning and innovation to turn ideas into reality. Always seeking new challenges and opportunities to grow.</p> 
   
 #
 
